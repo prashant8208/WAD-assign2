@@ -1,0 +1,52 @@
+body
+{
+	
+
+
+}
+#header{
+	margin-top:0;
+	height:auto;
+	width:auto;
+	background-color:skyblue;
+}
+h1
+{
+	padding:20px;
+	text-align:center;
+}
+.top {
+	text-decoration:none;
+	display:inline;
+	float:right;
+	padding:15px;
+	margin-top:0;
+	font-size:16px;
+	
+}
+a,input{
+	background-color: #ddd;
+	padding:10px;
+}
+input{
+	 border-radius: 25px;
+}
+.vertical-menu
+{   display:inline;
+	height:700px;
+	width:200px;
+	background-color:#7FFFD4;
+}
+li a {
+  display: block;
+  width: 60px;
+  background-color: #dddddd;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+table, th, td {
+  border:1px solid black;
+}
